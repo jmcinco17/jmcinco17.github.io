@@ -1,1 +1,0 @@
-# jmcinco17.github.io
