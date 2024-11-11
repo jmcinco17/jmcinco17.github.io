@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 
-/*Header*/
+/*  Header  */
 header {
     font-family:Lexend, Arial, Helvetica, sans-serif;
     background-color: rgb(69, 132, 69);
@@ -9,11 +9,18 @@ header {
     text-align: center;
     padding: 10px;
 }
+/*  Navigation  */
+nav a{
+    color: aliceblue;
+}
 
+/*  Main Style of the Website  */
 body {
     font-family: Lexend,Arial, Helvetica, sans-serif;
-    
 }
+
+/*  Main Content */
 main h1 {
     color: rgb(69, 132, 69);
 }
+
