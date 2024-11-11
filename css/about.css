@@ -1,0 +1,9 @@
+/*  Header  */
+header {
+    font-family:Lexend, Arial, Helvetica, sans-serif;
+    background-color: rgb(69, 132, 69);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 10px solid rgb(63, 100, 63);
+}
