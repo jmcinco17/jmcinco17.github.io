@@ -1,9 +1,27 @@
-/*  Header  */
-header {
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+/*  About Me  */
+main {
     font-family:Lexend, Arial, Helvetica, sans-serif;
     background-color: rgb(69, 132, 69);
     color: white;
     text-align: center;
     padding: 10px;
     border: 10px solid rgb(63, 100, 63);
+    margin: 10px;
+}
+
+nav a{
+    color: rgb(195, 249, 196);
+} 
+
+h2{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin: 15px;
+}
+
+/*  Contact Info   */
+section ul{
+    text-decoration-line: underline;
+ 
 }
