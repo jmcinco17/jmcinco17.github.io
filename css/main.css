@@ -26,16 +26,13 @@ body {
 /*  Main Content */
 main h2 {
     color: rgb(69, 132, 69);
-  
 }
 
 p {
 letter-spacing: normal;
 white-space: normal;
 line-height: 1.5;
-
 }
-
 
 /* Figure or Image Section */
 figure {
