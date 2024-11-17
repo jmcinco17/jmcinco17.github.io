@@ -6,3 +6,19 @@ const Year = document.getElementById("Year");
 const d = new Date();
 Year.innerText = d.getFullYear();
 
+//// conditionals (if-else)
+const btn = document.getElementById("btn alert");
+btn.addEventListener("click", () => {
+    greeting();
+    console.log("Button Clicked");
+});
+
+const greeting = () => {
+    if (d.getHours() <= 11) {
+        alert(`Good morning!`);
+    } else if (d.getHours() < 18) {
+        alert(`Good afternoon!`);
+    } else {
+        alert(`Good evening!`);
+    }
+}
